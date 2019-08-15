@@ -104,23 +104,23 @@ const Nick = new Instructor({
 
 // Parker object
 const Parker = new Instructor({
-    name: 'Parker Pukes-a-lot',
+    name: 'Parker Party-a-lot',
     age: 15,
     location: 'Los Angeles',
     favLanguage: 'Python',
     specialty: 'Back-End',
-    catchPhrase: 'I need to go home to puke'
+    catchPhrase: 'I need to go home to sleep'
 
 });
 
 
 // Utah Boy object
-const Munch = new Instructor({
-    name: 'Utah Boy',
-    age: 23,
-    location: 'Salt Lake City',
-    favLanguage: 'Book of Mormon',
-    catchPhrase: 'will you marry me'
+const LilPump = new Instructor({
+    name: 'Lil Pump',
+    age: 18,
+    location: 'Los Angeles',
+    favLanguage: 'Ruby on Rails',
+    catchPhrase: 'eskeddit'
 
 });
 
@@ -141,7 +141,7 @@ const BostonGeorge = new Student({
     name: 'Boston George',
     age: 30,
     location: 'Boston',
-    previousBackground: 'Professional Drugdealer',
+    previousBackground: 'Professional Pilot',
     className: 'BostonPT17',
     favSubjects: ['React', 'Javascript']
 });
@@ -164,7 +164,7 @@ const TuckerCarlson = new projectManager({
     age: 58,
     location: 'Washington DC',
     gradClassName: 'FoxNewsPT9',
-    favInstructor: 'Sean Hanity'
+    favInstructor: 'Nick'
 });
 
 // Sean Hanity object
@@ -173,5 +173,5 @@ const SeanHanity = new projectManager({
     age: 69,
     location: 'New York',
     gradClassName: 'FoxNewsPT12',
-    favInstructor: 'Bill DeBlasio'
+    favInstructor: 'Lil Pump'
 });
